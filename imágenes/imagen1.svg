@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D8CFC4"/>
+      <stop offset="100%" stop-color="#AEB7A2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="45" y="55" width="1510" height="785" fill="#F1E7DF" opacity="0.18"/>
+  <g opacity="0.94">
+    <rect x="40" y="90" width="340" height="710" fill="#FAF7F4"/>
+    <rect x="40" y="260" width="340" height="540" fill="#FAF7F4"/>
+    <rect x="1220" y="180" width="300" height="520" fill="#FFFFFF" opacity="0.35"/>
+    <rect x="1200" y="80" width="360" height="720" fill="#E9E5DF" opacity="0.5"/>
+  </g>
+  <rect x="500" y="200" width="680" height="440" rx="28" fill="#F5F1ED" opacity="0.75"/>
+  <circle cx="350" cy="690" r="90" fill="#DFE3D8" opacity="0.8"/>
+  <path d="M252 760c48-90 103-140 160-140 58 0 124 52 162 140" fill="#C7BAA8" opacity="0.95"/>
+  <path d="M1035 640c-42-82-103-128-166-128-61 0-111 38-156 126" fill="#95A48D" opacity="0.78"/>
+  <circle cx="1170" cy="500" r="84" fill="#E6D6CA" opacity="0.9"/>
+  <rect x="1120" y="270" width="260" height="260" rx="26" fill="#C9B19D" opacity="0.92"/>
+  <path d="M1170 510h160M1170 450h160M1170 390h120" stroke="#223229" stroke-width="11" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="420" cy="610" r="74" fill="#E0DBD5" opacity="0.7"/>
+  <path d="M340 740c25-56 66-87 106-87 42 0 82 31 108 87" fill="#A5A696" opacity="0.8"/>
+  <g fill="#1F1F1C">
+    <path d="M360 470c0-95 72-166 171-166 100 0 165 68 165 166 0 99-64 170-169 170-103 0-167-70-167-170Zm115-2c0 56 31 93 84 93 54 0 85-38 85-96 0-57-30-95-86-95-53 0-83 38-83 98Z"/>
+    <path d="M700 374h155v58H700zm42 80c0-18 15-33 33-33s33 15 33 33v170H742V454h-42v170h42V454Zm-52 0h42v170h-42zm117 0h44c29 0 49 20 49 52v107c0 35-19 55-49 55h-44V454Zm44 166c29 0 40-12 40-38v-47c0-26-11-38-40-38h-2v123h2Z"/>
+  </g>
+  <path d="M765 175c-18 8-35 20-49 37-16 20-27 44-31 72 24-22 48-36 74-39 16-2 32 2 49 12l-43-82Z" fill="#F2D8C7" opacity="0.9"/>
+</svg>
