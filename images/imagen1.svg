@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 853" role="img" aria-labelledby="title desc">
+  <title id="title">Liderazgo consciente</title>
+  <desc id="desc">Ilustración de liderazgo, crecimiento y trabajo en equipo.</desc>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F4E9E0"/>
+      <stop offset="100%" stop-color="#E6C9BD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="853" fill="#F8F2EE"/>
+  <rect x="0" y="540" width="1280" height="313" fill="#E9D9D0"/>
+  <circle cx="220" cy="260" r="110" fill="#E8CBC5"/>
+  <circle cx="530" cy="240" r="130" fill="#C5B9AC"/>
+  <circle cx="960" cy="220" r="120" fill="#D9B7A8"/>
+  <rect x="120" y="218" width="260" height="270" rx="28" fill="#FCF9F7"/>
+  <rect x="170" y="250" width="160" height="22" rx="11" fill="#C5B9AC"/>
+  <rect x="170" y="300" width="130" height="15" rx="8" fill="#E7D7CF"/>
+  <rect x="170" y="335" width="150" height="15" rx="8" fill="#E7D7CF"/>
+  <rect x="170" y="370" width="120" height="15" rx="8" fill="#E7D7CF"/>
+  <rect x="480" y="338" width="320" height="180" rx="30" fill="#FFFDFB"/>
+  <path d="M515 470c52-66 99-99 145-99s95 33 146 99" fill="none" stroke="#C07A66" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="650" cy="362" r="55" fill="#E8CBC5"/>
+  <circle cx="530" cy="466" r="30" fill="#2B2B2B" opacity="0.9"/>
+  <circle cx="770" cy="466" r="30" fill="#2B2B2B" opacity="0.9"/>
+  <path d="M850 350c36 0 66 30 66 66v90h-60v-80c0-12-10-22-22-22h-17v-54h33Z" fill="#AFA397"/>
+  <path d="M960 410l92 62-92 70v-132Z" fill="#C07A66" opacity="0.9"/>
+  <circle cx="959" cy="246" r="86" fill="#F4E9E0" stroke="#2B2B2B" stroke-width="8"/>
+  <path d="M930 222h58l-26 52-32-52Z" fill="#2B2B2B"/>
+  <path d="M214 604l116-70 124 70v122H214V604Z" fill="#F4D9CF"/>
+  <path d="M298 532v146" stroke="#2B2B2B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M295 566h82" stroke="#2B2B2B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M340 594h65" stroke="#2B2B2B" stroke-width="10" stroke-linecap="round"/>
+</svg>

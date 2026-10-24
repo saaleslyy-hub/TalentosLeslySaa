@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 853" role="img" aria-labelledby="title desc">
+  <title id="title">People analytics</title>
+  <desc id="desc">Dashboard de analytics y métricas de talento.</desc>
+  <rect width="1280" height="853" fill="#F9F2EE"/>
+  <rect x="120" y="134" width="1040" height="570" rx="34" fill="#FFFFFF" stroke="#E8D7CF" stroke-width="4"/>
+  <rect x="160" y="175" width="250" height="150" rx="22" fill="#F4E9E0"/>
+  <rect x="470" y="175" width="250" height="150" rx="22" fill="#E9D9D0"/>
+  <rect x="780" y="175" width="250" height="150" rx="22" fill="#F8D5C9"/>
+  <rect x="160" y="390" width="870" height="250" rx="28" fill="#F8F3F0"/>
+  <path d="M210 470l90-52 92 74 104-106 108 58 96-74 112 88 124-112" fill="none" stroke="#2A2A2A" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 500h760" stroke="#DCC9C1" stroke-width="6"/>
+  <path d="M200 430h760" stroke="#DCC9C1" stroke-width="6"/>
+  <path d="M200 560h760" stroke="#DCC9C1" stroke-width="6"/>
+  <path d="M770 280h150" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="770" cy="280" r="14" fill="#C07A66"/>
+  <circle cx="820" cy="280" r="14" fill="#AFA397"/>
+  <circle cx="870" cy="280" r="14" fill="#E8CBC5"/>
+  <path d="M500 250v40h170v-40" fill="#2A2A2A" opacity="0.1"/>
+  <rect x="510" y="240" width="150" height="60" rx="16" fill="#FFFDFB"/>
+  <circle cx="560" cy="270" r="18" fill="#C5B9AC"/>
+  <path d="M580 250h60" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M580 271h46" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+  <rect x="180" y="245" width="80" height="20" rx="10" fill="#2A2A2A" opacity="0.15"/>
+  <rect x="180" y="285" width="110" height="20" rx="10" fill="#2A2A2A" opacity="0.08"/>
+  <path d="M210 530c24 0 40 15 48 38 8 24 26 40 54 40h164" fill="none" stroke="#C07A66" stroke-width="12" stroke-linecap="round"/>
+  <path d="M610 544c18-30 52-54 93-54 20 0 44 7 61 24" fill="none" stroke="#AFA397" stroke-width="10" stroke-linecap="round"/>
+</svg>

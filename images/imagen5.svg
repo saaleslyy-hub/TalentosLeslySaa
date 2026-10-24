@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 853" role="img" aria-labelledby="title desc">
+  <title id="title">Coaching de carrera</title>
+  <desc id="desc">Ruta de objetivo personal y acompañamiento.</desc>
+  <rect width="1280" height="853" fill="#F9F5F3"/>
+  <rect x="120" y="160" width="1040" height="560" rx="28" fill="#FFFFFF" stroke="#E9D7CE" stroke-width="4"/>
+  <circle cx="360" cy="330" r="150" fill="#F2D5C7"/>
+  <path d="M560 560c38-62 124-101 197-101s162 39 199 101" fill="none" stroke="#2A2A2A" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="620" cy="395" r="78" fill="#C5B9AC"/>
+  <circle cx="820" cy="392" r="76" fill="#E8CBC5"/>
+  <path d="M501 620l118-118 83 84 118-124 125 120 76-90" fill="none" stroke="#C07A66" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="503" cy="620" r="12" fill="#2A2A2A"/>
+  <circle cx="620" cy="502" r="12" fill="#2A2A2A"/>
+  <circle cx="703" cy="586" r="12" fill="#2A2A2A"/>
+  <circle cx="821" cy="462" r="12" fill="#2A2A2A"/>
+  <circle cx="946" cy="582" r="12" fill="#2A2A2A"/>
+  <rect x="202" y="242" width="210" height="150" rx="20" fill="#F4E9E0"/>
+  <path d="M245 330l47-62 43 52 56-90 61 100" fill="none" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M915 254l72 0c22 0 40 18 40 40v74c0 22-18 40-40 40h-72l-38-77 38-77Z" fill="#AFA397"/>
+  <path d="M230 184h180" stroke="#DCC8BF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M230 216h120" stroke="#DCC8BF" stroke-width="12" stroke-linecap="round"/>
+</svg>

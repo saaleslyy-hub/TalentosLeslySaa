@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 853" role="img" aria-labelledby="title desc">
+  <title id="title">Bienestar y cultura</title>
+  <desc id="desc">Equipo conectándose y compartiendo bienestar.</desc>
+  <rect width="1280" height="853" fill="#F9F1EC"/>
+  <rect x="0" y="560" width="1280" height="293" fill="#E8D9D0"/>
+  <circle cx="265" cy="310" r="110" fill="#F0D7CA"/>
+  <circle cx="535" cy="280" r="120" fill="#DABEA7"/>
+  <circle cx="880" cy="300" r="102" fill="#EAC DC5" opacity="0.85"/>
+  <circle cx="400" cy="460" r="78" fill="#FCFAF8"/>
+  <circle cx="700" cy="470" r="86" fill="#FCFAF8"/>
+  <circle cx="980" cy="460" r="72" fill="#FCFAF8"/>
+  <path d="M320 587c56-62 122-94 183-94s128 32 188 94" fill="none" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M540 612c52-70 127-106 198-106 76 0 150 36 214 106" fill="none" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="596" cy="420" r="22" fill="#2A2A2A"/>
+  <circle cx="770" cy="420" r="22" fill="#2A2A2A"/>
+  <circle cx="432" cy="390" r="18" fill="#2A2A2A"/>
+  <circle cx="964" cy="392" r="18" fill="#2A2A2A"/>
+  <path d="M185 212c25-34 78-48 124-34 20 12 30 34 25 56" fill="none" stroke="#2A2A2A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M915 174c32 0 64 16 87 42" fill="none" stroke="#C07A66" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1020 200c33 22 57 53 68 90" fill="none" stroke="#AFA397" stroke-width="12" stroke-linecap="round"/>
+</svg>
